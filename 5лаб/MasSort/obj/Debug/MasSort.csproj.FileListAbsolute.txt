@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Array-sorting-master\MasSort\bin\Debug\MasSort.exe.config
+C:\Users\admin\Desktop\Array-sorting-master\MasSort\bin\Debug\MasSort.exe
+C:\Users\admin\Desktop\Array-sorting-master\MasSort\bin\Debug\MasSort.pdb
+C:\Users\admin\Desktop\Array-sorting-master\MasSort\obj\Debug\MasSort.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Array-sorting-master\MasSort\obj\Debug\MasSort.exe
+C:\Users\admin\Desktop\Array-sorting-master\MasSort\obj\Debug\MasSort.pdb
